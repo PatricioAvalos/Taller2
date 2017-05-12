@@ -1,0 +1,321 @@
+Censista: Daniel Cuellar Codigo: 24
+Persona censada: Gabriel Zarate Edad: 36
+Persona censada: Hector Carrizo Edad: 58
+Persona censada: Gabriela Diaz Edad: 22
+Total de personas de familia: 14
+ 
+Censista: Carmen Herrera Codigo: 50
+Persona censada: Catalina Mendez Edad: 50
+Persona censada: Patricio Segovia Edad: 40
+Total de personas de familia: 9
+ 
+Censista: Rocio Alvarez Codigo: 34
+Persona censada: Victor Bravo Edad: 35
+Persona censada: Marcelo Aranguiz Edad: 48
+Persona censada: Rodrigo Cardenas Edad: 29
+Total de personas de familia: 14
+ 
+Censista: Mariana Contreras Codigo: 16
+Persona censada: Carla Briones Edad: 24
+Persona censada: Eugenia Pasten Edad: 78
+Persona censada: Ernesto Lara Edad: 55
+Total de personas de familia: 19
+ 
+Censista: Jose Ortega Codigo: 1
+Persona censada: Luis Suarez Edad: 45
+Persona censada: Mario Martinez Edad: 65
+Persona censada: Emiliano Pizarro Edad: 70
+Persona censada: Carmen Cuellar Edad: 25
+Total de personas de familia: 29
+ 
+Censista: Italo Jorquera Codigo: 51
+Persona censada: Carmen Gomez Edad: 39
+Persona censada: Luis Hurtado Edad: 38
+Total de personas de familia: 9
+ 
+Censista: Juan Pereira Codigo: 35
+Persona censada: Italo Moreno Edad: 68
+Persona censada: Cristina Alfaro Edad: 25
+Total de personas de familia: 11
+ 
+Censista: Emiliano Pavez Codigo: 8
+Persona censada: Carla Errazuriz Edad: 48
+Persona censada: Monserrat Perez Edad: 59
+Persona censada: Camila Contreras Edad: 33
+Total de personas de familia: 21
+ 
+Censista: Felipe Pizarro Codigo: 17
+Persona censada: Pedro Carrasco Edad: 38
+Persona censada: Gladis Astorga Edad: 60
+Total de personas de familia: 13
+ 
+Censista: Alvaro Ramos Codigo: 36
+Persona censada: Esteban Segovia Edad: 59
+Persona censada: Alfredo Rosales Edad: 80
+Persona censada: Cristian Hurtado Edad: 30
+Total de personas de familia: 19
+ 
+Censista: Antonia Saavedra Codigo: 52
+Persona censada: Paulina Vega Edad: 54
+Persona censada: Marta Astorga Edad: 30
+Persona censada: Pedro Varas Edad: 50
+Total de personas de familia: 17
+ 
+Censista: Jorge Perez Codigo: 2
+Persona censada: Maria Contreras Edad: 33
+Persona censada: Alvaro Pizarro Edad: 45
+Total de personas de familia: 15
+ 
+Censista: Daniela Lopez Codigo: 25
+Persona censada: Constanza Herrera Edad: 23
+Persona censada: Gonzalo Caceres Edad: 55
+Total de personas de familia: 8
+ 
+Censista: Jose Aldunate Codigo: 37
+Persona censada: Alicia Solis Edad: 28
+Persona censada: Alvaro Ruiz Edad: 25
+Total de personas de familia: 5
+ 
+Censista: Daniela Gonzalez Codigo: 53
+Persona censada: Benjamin Gallardo Edad: 25
+Persona censada: Domingo Estrada Edad: 39
+Persona censada: Claudia Villalobos Edad: 41
+Total de personas de familia: 15
+ 
+Censista: Jorge Hurtado Codigo: 9
+Persona censada: Francisca Martinez Edad: 25
+Total de personas de familia: 2
+ 
+Censista: Soledad Marin Codigo: 18
+Persona censada: Rodrigo Ortiz Edad: 39
+Persona censada: Camilo Villagra Edad: 58
+Persona censada: Teresa Suazo Edad: 46
+Total de personas de familia: 13
+ 
+Censista: Manuel Cortes Codigo: 38
+Persona censada: Jorge Jimenez Edad: 38
+Persona censada: Monica Fernandez Edad: 56
+Total de personas de familia: 14
+ 
+Censista: Cristian Arriagada Codigo: 54
+Persona censada: Sofia Mancilla Edad: 40
+Persona censada: Estefani Torres Edad: 26
+Persona censada: Carlos Pinto Edad: 50
+Total de personas de familia: 16
+ 
+Censista: Evelin Suarez Codigo: 39
+Persona censada: Natalia Azocar Edad: 36
+Persona censada: Evelin Gutierrez Edad: 85
+Total de personas de familia: 10
+ 
+Censista: Mario Caceres Codigo: 3
+Persona censada: Mario Bravo Edad: 27
+Persona censada: Jorge Lopez Edad: 44
+Total de personas de familia: 9
+ 
+Censista: Claudio Bravo Codigo: 55
+Persona censada: Paula Avalos Edad: 22
+Persona censada: Barbara Soto Edad: 40
+Persona censada: Fabian Aviles Edad: 50
+Total de personas de familia: 15
+ 
+Censista: Benjamin Hernandez Codigo: 26
+Persona censada: Jaqueline Fernandez Edad: 40
+Persona censada: Yasna Uribe Edad: 39
+Total de personas de familia: 8
+ 
+Censista: Juan Barraza Codigo: 10
+Persona censada: Elver Toledo Edad: 66
+Persona censada: Paulina Perez Edad: 55
+Persona censada: Sebastian Hernandez Edad: 33
+Persona censada: Bastian Gutierrez Edad: 69
+Total de personas de familia: 29
+ 
+Censista: Gerardo Lobos Codigo: 40
+Persona censada: Constanza Huerta Edad: 50
+Persona censada: Esteban Ramirez Edad: 29
+Persona censada: Bastian Zarate Edad: 38
+Total de personas de familia: 14
+ 
+Censista: Mariana Villalobos Codigo: 56
+Persona censada: Ester Miranda Edad: 40
+Persona censada: Carlos Pizarro Edad: 60
+Total de personas de familia: 8
+ 
+Censista: Elver Gallardo Codigo: 19
+Persona censada: Cristian Olivares Edad: 55
+Persona censada: Susana Lopez Edad: 45
+Total de personas de familia: 12
+ 
+Censista: Elisa Arias Codigo: 4
+Persona censada: Gerardo Villalobos Edad: 35
+Persona censada: Antonia Olate Edad: 69
+Total de personas de familia: 15
+ 
+Censista: Paulina Toledo Codigo: 41
+Persona censada: Paula Jara Edad: 28
+Persona censada: Catalina Meneses Edad: 45
+Persona censada: Cecilia Vasquez Edad: 60
+Total de personas de familia: 15
+ 
+Censista: Francisca Ahumada Codigo: 42
+Persona censada: Ernesto Contreras Edad: 61
+Persona censada: Josefina Sanhueza Edad: 35
+Total de personas de familia: 7
+ 
+Censista: Paula Gonzalez Codigo: 27
+Persona censada: Daniela Bravo Edad: 25
+Persona censada: Elisa Saavedra Edad: 22
+Persona censada: Victor Jofre Edad: 69
+Total de personas de familia: 14
+ 
+Censista: Maria Perez Codigo: 11
+Persona censada: Soledad Fredes Edad: 45
+Persona censada: Ernesto Arce Edad: 66
+Total de personas de familia: 9
+ 
+Censista: Julio Canales Codigo: 57
+Persona censada: Elver Soza Edad: 58
+Persona censada: Miriam Jerez Edad: 36
+Persona censada: Alberto Rodriguez Edad: 45
+Total de personas de familia: 14
+ 
+Censista: Luis Molina Codigo: 20
+Persona censada: Camila Monardez Edad: 25
+Persona censada: Franco Trigo Edad: 19
+Persona censada: Ricardo Ortega Edad: 33
+Total de personas de familia: 9
+ 
+Censista: Antonia Rios Codigo: 43
+Persona censada: Margarita Veliz Edad: 50
+Persona censada: Juan Monardes Edad: 45
+Total de personas de familia: 11
+ 
+Censista: Victor Huerta Codigo: 28
+Persona censada: Sebastian Alvarez Edad: 70
+Persona censada: Mauricio Munizaga Edad: 33
+Total de personas de familia: 11
+ 
+Censista: Camila Suazo Codigo: 5
+Persona censada: Juan Iturra Edad: 55
+Persona censada: Juan Hernandez Edad: 60
+Persona censada: Paula Gonzalez Edad: 42
+Total de personas de familia: 22
+ 
+Censista: Juan Gallardo Codigo: 12
+Persona censada: Javiera Pizarro Edad: 42
+Persona censada: Cesar Huerta Edad: 68
+Total de personas de familia: 16
+ 
+Censista: Franco Iturra Codigo: 58
+Persona censada: Alonso Castro Edad: 33
+Persona censada: Paula Valenzuela Edad: 40
+Persona censada: Jose Herrera Edad: 63
+Persona censada: Ruben Guaman Edad: 42
+Total de personas de familia: 20
+ 
+Censista: Abraham Bravo Codigo: 44
+Persona censada: Jose Suarez Edad: 30
+Persona censada: Mariana Jorquera Edad: 45
+Total de personas de familia: 9
+ 
+Censista: Eduardo Castillo Codigo: 29
+Persona censada: Genesis Galleguillos Edad: 36
+Persona censada: Gabriela Perez Edad: 38
+Persona censada: Hector Silva Edad: 90
+Total de personas de familia: 15
+ 
+Censista: Felipe Godoy Codigo: 21
+Persona censada: Carolina Pineda Edad: 58
+Persona censada: Eduardo Zabaleta Edad: 59
+Total de personas de familia: 15
+ 
+Censista: Fabian Espina Codigo: 45
+Persona censada: Cristiana Ceballos Edad: 40
+Persona censada: Daniela Molina Edad: 35
+Persona censada: Soledad Olivares Edad: 60
+Total de personas de familia: 15
+ 
+Censista: Sandra Gonzalez Codigo: 6
+Persona censada: Camila Lobos Edad: 33
+Persona censada: Pablo Ahumada Edad: 62
+Persona censada: Jorge Hurtado Edad: 28
+Total de personas de familia: 15
+ 
+Censista: Marta Hernandez Codigo: 13
+Persona censada: Daniela Gonzalez Edad: 45
+Persona censada: Cristian Zarate Edad: 33
+Total de personas de familia: 12
+ 
+Censista: Carlos Manzano Codigo: 30
+Persona censada: Ana Carvajal Edad: 65
+Persona censada: Luis Fredes Edad: 34
+Total de personas de familia: 6
+ 
+Censista: Elizabeth Bravo Codigo: 46
+Persona censada: Sandra Torres Edad: 50
+Persona censada: Felipe Cifuentes Edad: 30
+Persona censada: Gabriela Martinez Edad: 56
+Total de personas de familia: 15
+ 
+Censista: Cristian Ortega Codigo: 22
+Persona censada: Loreto Araneda Edad: 56
+Persona censada: Lorena Lagos Edad: 24
+Persona censada: Patricia Galvez Edad: 39
+Total de personas de familia: 13
+ 
+Censista: Luis Alvarez Codigo: 7
+Persona censada: Luis Perez Edad: 39
+Persona censada: Abraham Gallardo Edad: 48
+Persona censada: Cristobal Ahumada Edad: 77
+Persona censada: Michelle Bustos Edad: 23
+Total de personas de familia: 22
+ 
+Censista: Carlos Bustos Codigo: 31
+Persona censada: Jose Rodriguez Edad: 45
+Persona censada: Alberto Olivares Edad: 33
+Persona censada: Fernanda Cortes Edad: 24
+Total de personas de familia: 12
+ 
+Censista: Bruno Alves Codigo: 47
+Persona censada: Maria Manzano Edad: 35
+Persona censada: Marta Iturra Edad: 40
+Total de personas de familia: 9
+ 
+Censista: Catalina Lopez Codigo: 14
+Persona censada: Amanda Urrutia Edad: 32
+Persona censada: Matias Ortiz Edad: 27
+Total de personas de familia: 7
+ 
+Censista: Fernando Astorga Codigo: 23
+Persona censada: Camilo Ruiz Edad: 88
+Persona censada: Emilia Cortes Edad: 66
+Total de personas de familia: 16
+ 
+Censista: Ruben Hurtado Codigo: 48
+Persona censada: Evelin Cifuentes Edad: 22
+Persona censada: Ana Lobos Edad: 60
+Total de personas de familia: 8
+ 
+Censista: Francisca Paredes Codigo: 15
+Persona censada: Ester Astorga Edad: 66
+Total de personas de familia: 7
+ 
+Censista: Diego Jimenez Codigo: 32
+Persona censada: Constanza Espina Edad: 55
+Persona censada: Jorge Villagran Edad: 57
+Persona censada: Cristobal Arias Edad: 36
+Total de personas de familia: 16
+ 
+Censista: Gloria Vergara Codigo: 49
+Persona censada: Carmen Soto Edad: 55
+Persona censada: Ricardo Pavez Edad: 30
+Persona censada: Esteban Garrido Edad: 31
+Total de personas de familia: 14
+ 
+Censista: Fernanda Rojas Codigo: 33
+Persona censada: Agustina Farias Edad: 76
+Persona censada: Rocio Vergara Edad: 34
+Total de personas de familia: 11
+ 
+Total de Habitantes: 1452Total familias mayor 3: 96 -> % de familias que superan los 3 integrantes: 6.6115704

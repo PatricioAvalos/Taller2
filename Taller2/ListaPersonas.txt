@@ -1,0 +1,147 @@
+Persona: Luis SuarezEdad: 45Ciudad: La Serena
+Persona: Mario MartinezEdad: 65Ciudad: La Serena
+Persona: Emiliano PizarroEdad: 70Ciudad: La Serena
+Persona: Carmen CuellarEdad: 25Ciudad: La Serena
+Persona: Maria ContrerasEdad: 33Ciudad: La Serena
+Persona: Alvaro PizarroEdad: 45Ciudad: La Serena
+Persona: Mario BravoEdad: 27Ciudad: La Serena
+Persona: Jorge LopezEdad: 44Ciudad: La Serena
+Persona: Gerardo VillalobosEdad: 35Ciudad: La Serena
+Persona: Antonia OlateEdad: 69Ciudad: La Serena
+Persona: Juan IturraEdad: 55Ciudad: La Serena
+Persona: Juan HernandezEdad: 60Ciudad: La Serena
+Persona: Paula GonzalezEdad: 42Ciudad: La Serena
+Persona: Camila LobosEdad: 33Ciudad: La Serena
+Persona: Pablo AhumadaEdad: 62Ciudad: La Serena
+Persona: Jorge HurtadoEdad: 28Ciudad: La Serena
+Persona: Luis PerezEdad: 39Ciudad: La Serena
+Persona: Abraham GallardoEdad: 48Ciudad: La Serena
+Persona: Cristobal AhumadaEdad: 77Ciudad: La Serena
+Persona: Michelle BustosEdad: 23Ciudad: La Serena
+Persona: Carla ErrazurizEdad: 48Ciudad: Coquimbo
+Persona: Monserrat PerezEdad: 59Ciudad: Coquimbo
+Persona: Camila ContrerasEdad: 33Ciudad: Coquimbo
+Persona: Francisca MartinezEdad: 25Ciudad: Coquimbo
+Persona: Elver ToledoEdad: 66Ciudad: Coquimbo
+Persona: Paulina PerezEdad: 55Ciudad: Coquimbo
+Persona: Sebastian HernandezEdad: 33Ciudad: Coquimbo
+Persona: Bastian GutierrezEdad: 69Ciudad: Coquimbo
+Persona: Soledad FredesEdad: 45Ciudad: Coquimbo
+Persona: Ernesto ArceEdad: 66Ciudad: Coquimbo
+Persona: Javiera PizarroEdad: 42Ciudad: Coquimbo
+Persona: Cesar HuertaEdad: 68Ciudad: Coquimbo
+Persona: Daniela GonzalezEdad: 45Ciudad: Coquimbo
+Persona: Cristian ZarateEdad: 33Ciudad: Coquimbo
+Persona: Amanda UrrutiaEdad: 32Ciudad: Coquimbo
+Persona: Matias OrtizEdad: 27Ciudad: Coquimbo
+Persona: Ester AstorgaEdad: 66Ciudad: Coquimbo
+Persona: Carla BrionesEdad: 24Ciudad: La Higuera
+Persona: Eugenia PastenEdad: 78Ciudad: La Higuera
+Persona: Ernesto LaraEdad: 55Ciudad: La Higuera
+Persona: Pedro CarrascoEdad: 38Ciudad: La Higuera
+Persona: Gladis AstorgaEdad: 60Ciudad: La Higuera
+Persona: Rodrigo OrtizEdad: 39Ciudad: La Higuera
+Persona: Camilo VillagraEdad: 58Ciudad: La Higuera
+Persona: Teresa SuazoEdad: 46Ciudad: La Higuera
+Persona: Cristian OlivaresEdad: 55Ciudad: La Higuera
+Persona: Susana LopezEdad: 45Ciudad: La Higuera
+Persona: Camila MonardezEdad: 25Ciudad: La Higuera
+Persona: Franco TrigoEdad: 19Ciudad: La Higuera
+Persona: Ricardo OrtegaEdad: 33Ciudad: La Higuera
+Persona: Carolina PinedaEdad: 58Ciudad: Andacollo
+Persona: Eduardo ZabaletaEdad: 59Ciudad: Andacollo
+Persona: Loreto AranedaEdad: 56Ciudad: Andacollo
+Persona: Lorena LagosEdad: 24Ciudad: Andacollo
+Persona: Patricia GalvezEdad: 39Ciudad: Andacollo
+Persona: Camilo RuizEdad: 88Ciudad: Andacollo
+Persona: Emilia CortesEdad: 66Ciudad: Andacollo
+Persona: Gabriel ZarateEdad: 36Ciudad: Andacollo
+Persona: Hector CarrizoEdad: 58Ciudad: Andacollo
+Persona: Gabriela DiazEdad: 22Ciudad: Andacollo
+Persona: Constanza HerreraEdad: 23Ciudad: Andacollo
+Persona: Gonzalo CaceresEdad: 55Ciudad: Andacollo
+Persona: Jaqueline FernandezEdad: 40Ciudad: Andacollo
+Persona: Yasna UribeEdad: 39Ciudad: Andacollo
+Persona: Daniela BravoEdad: 25Ciudad: Paihuano
+Persona: Elisa SaavedraEdad: 22Ciudad: Paihuano
+Persona: Victor JofreEdad: 69Ciudad: Paihuano
+Persona: Sebastian AlvarezEdad: 70Ciudad: Paihuano
+Persona: Mauricio MunizagaEdad: 33Ciudad: Paihuano
+Persona: Genesis GalleguillosEdad: 36Ciudad: Paihuano
+Persona: Gabriela PerezEdad: 38Ciudad: Paihuano
+Persona: Hector SilvaEdad: 90Ciudad: Paihuano
+Persona: Ana CarvajalEdad: 65Ciudad: Paihuano
+Persona: Luis FredesEdad: 34Ciudad: Paihuano
+Persona: Jose RodriguezEdad: 45Ciudad: Paihuano
+Persona: Alberto OlivaresEdad: 33Ciudad: Paihuano
+Persona: Fernanda CortesEdad: 24Ciudad: Paihuano
+Persona: Constanza EspinaEdad: 55Ciudad: Ovalle
+Persona: Jorge VillagranEdad: 57Ciudad: Ovalle
+Persona: Cristobal AriasEdad: 36Ciudad: Ovalle
+Persona: Agustina FariasEdad: 76Ciudad: Ovalle
+Persona: Rocio VergaraEdad: 34Ciudad: Ovalle
+Persona: Victor BravoEdad: 35Ciudad: Ovalle
+Persona: Marcelo AranguizEdad: 48Ciudad: Ovalle
+Persona: Rodrigo CardenasEdad: 29Ciudad: Ovalle
+Persona: Italo MorenoEdad: 68Ciudad: Ovalle
+Persona: Cristina AlfaroEdad: 25Ciudad: Ovalle
+Persona: Esteban SegoviaEdad: 59Ciudad: Ovalle
+Persona: Alfredo RosalesEdad: 80Ciudad: Ovalle
+Persona: Cristian HurtadoEdad: 30Ciudad: Ovalle
+Persona: Alicia SolisEdad: 28Ciudad: Ovalle
+Persona: Alvaro RuizEdad: 25Ciudad: Ovalle
+Persona: Jorge JimenezEdad: 38Ciudad: Monte Patria
+Persona: Monica FernandezEdad: 56Ciudad: Monte Patria
+Persona: Natalia AzocarEdad: 36Ciudad: Monte Patria
+Persona: Evelin GutierrezEdad: 85Ciudad: Monte Patria
+Persona: Constanza HuertaEdad: 50Ciudad: Monte Patria
+Persona: Esteban RamirezEdad: 29Ciudad: Monte Patria
+Persona: Bastian ZarateEdad: 38Ciudad: Monte Patria
+Persona: Paula JaraEdad: 28Ciudad: Monte Patria
+Persona: Catalina MenesesEdad: 45Ciudad: Monte Patria
+Persona: Cecilia VasquezEdad: 60Ciudad: Monte Patria
+Persona: Ernesto ContrerasEdad: 61Ciudad: Monte Patria
+Persona: Josefina SanhuezaEdad: 35Ciudad: Monte Patria
+Persona: Margarita VelizEdad: 50Ciudad: Monte Patria
+Persona: Juan MonardesEdad: 45Ciudad: Monte Patria
+Persona: Carla GallardoEdad: 22Ciudad: Monte Patria
+Persona: Jose SuarezEdad: 30Ciudad: Punitaqui
+Persona: Mariana JorqueraEdad: 45Ciudad: Punitaqui
+Persona: Cristiana CeballosEdad: 40Ciudad: Punitaqui
+Persona: Daniela MolinaEdad: 35Ciudad: Punitaqui
+Persona: Soledad OlivaresEdad: 60Ciudad: Punitaqui
+Persona: Sandra TorresEdad: 50Ciudad: Punitaqui
+Persona: Felipe CifuentesEdad: 30Ciudad: Punitaqui
+Persona: Gabriela MartinezEdad: 56Ciudad: Punitaqui
+Persona: Maria ManzanoEdad: 35Ciudad: Punitaqui
+Persona: Marta IturraEdad: 40Ciudad: Punitaqui
+Persona: Evelin CifuentesEdad: 22Ciudad: Punitaqui
+Persona: Ana LobosEdad: 60Ciudad: Punitaqui
+Persona: Carmen SotoEdad: 55Ciudad: Los Vilos
+Persona: Ricardo PavezEdad: 30Ciudad: Los Vilos
+Persona: Esteban GarridoEdad: 31Ciudad: Los Vilos
+Persona: Catalina MendezEdad: 50Ciudad: Los Vilos
+Persona: Patricio SegoviaEdad: 40Ciudad: Los Vilos
+Persona: Carmen GomezEdad: 39Ciudad: Los Vilos
+Persona: Luis HurtadoEdad: 38Ciudad: Los Vilos
+Persona: Paulina VegaEdad: 54Ciudad: Los Vilos
+Persona: Marta AstorgaEdad: 30Ciudad: Los Vilos
+Persona: Pedro VarasEdad: 50Ciudad: Los Vilos
+Persona: Benjamin GallardoEdad: 25Ciudad: Los Vilos
+Persona: Domingo EstradaEdad: 39Ciudad: Los Vilos
+Persona: Claudia VillalobosEdad: 41Ciudad: Los Vilos
+Persona: Sofia MancillaEdad: 40Ciudad: Los Vilos
+Persona: Estefani TorresEdad: 26Ciudad: Los Vilos
+Persona: Carlos PintoEdad: 50Ciudad: Los Vilos
+Persona: Paula AvalosEdad: 22Ciudad: Canela
+Persona: Barbara SotoEdad: 40Ciudad: Canela
+Persona: Fabian AvilesEdad: 50Ciudad: Canela
+Persona: Ester MirandaEdad: 40Ciudad: Canela
+Persona: Carlos PizarroEdad: 60Ciudad: Canela
+Persona: Elver SozaEdad: 58Ciudad: Canela
+Persona: Miriam JerezEdad: 36Ciudad: Canela
+Persona: Alberto RodriguezEdad: 45Ciudad: Canela
+Persona: Alonso CastroEdad: 33Ciudad: Canela
+Persona: Paula ValenzuelaEdad: 40Ciudad: Canela
+Persona: Jose HerreraEdad: 63Ciudad: Canela
+Persona: Ruben GuamanEdad: 42Ciudad: Canela
